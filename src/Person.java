@@ -10,7 +10,7 @@ public class Person {
 	
 	
 	public static void main(String[] args) {
-		Person p = new Person("Oliver", 32);
+		Person p = new Person("Oliver", 31);
 		System.out.println(p.name);
 
 	}
